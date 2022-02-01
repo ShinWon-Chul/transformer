@@ -168,7 +168,7 @@ class MultiHeadAttentionLayer(nn.Module):
 
 ### 1.3 Decoder Architecture
 
-![model](transformer-decoder.png)
+![model](assets/transformer-decoder.png)
 
 ```python
 class Decoder(nn.Module):
